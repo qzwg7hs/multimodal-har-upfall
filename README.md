@@ -63,7 +63,5 @@ This project was developed by a student team at Nazarbayev University as part of
 
 ## Report
 
-Full project report is available at Report.pdf
-
 See the full project report in [`report/HAR_Final_Report.pdf`](report/HAR_Final_Report.pdf)
 
